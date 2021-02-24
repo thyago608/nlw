@@ -1,5 +1,3 @@
-
-Desenvolvido por Thyago Ribeiro 👋
 ## Sobre
 
 Foi desenvolvida um API ( Application Programming Interface ), com o objetivo de atender aplicações web e mobile.
