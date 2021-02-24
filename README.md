@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/57146734/89735207-41c97680-da37-11ea-83f0-5a25e45551e5.gif
-
+![Alt Text](https://user-images.githubusercontent.com/57146734/89735207-41c97680-da37-11ea-83f0-5a25e45551e5.gif)
 ## Sobre
 
 O projeto **Proffy** é uma plataforma de estudos que foi desenvolvida dentro da semana **Next Level Week #2**. Com o objetivo de colocar em prática, todo o conteúdo que estava sendo adquirido ao decorrer dos dias.
